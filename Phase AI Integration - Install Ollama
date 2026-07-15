@@ -1,6 +1,6 @@
-Absolutely. I actually recommend **not integrating with your React application yet**. First, let's prove the concept works locally. Once we confirm Ollama can generate Playwright tests and Playwright can execute them, then we'll integrate it into your backend.
+<h3>Absolutely. I actually recommend **not integrating with your React application yet**. First, let's prove the concept works locally. Once we confirm Ollama can generate Playwright tests and Playwright can execute them, then we'll integrate it into your backend.
 
-We'll build it in small phases.
+We'll build it in small phases.</h3>
 
 ---
 
