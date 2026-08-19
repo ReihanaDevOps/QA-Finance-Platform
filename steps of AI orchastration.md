@@ -857,4 +857,22 @@ output/scenarios.json
 └──────────────────────────┘
 ```
 
+
+agent.py
+   ↓
+explorer.py
+   ↓
+Playwright + Chromium
+   ↓
+Website exploration
+   ↓
+exploration.json
+   ↓
+analyzer.py
+   ↓
+QA scenarios
+   ↓
+scenarios.json
+report.json
+
 **If you can make that reliable on 2–3 different real applications, then you have validated the core technology before spending time building the full QA platform.**
